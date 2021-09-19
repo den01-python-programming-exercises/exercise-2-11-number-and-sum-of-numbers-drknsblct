@@ -13,7 +13,7 @@ def main():
         sum += num
         
     print('Number of numbers: ' + str(count))
-    print('Sum of the numbers: ' + str(sum))
+    print('Sum of numbers: ' + str(sum))
     
 
 if __name__ == '__main__':
